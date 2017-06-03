@@ -1,2 +1,3 @@
-# myboxuegu
-#博学谷后台管理系统
+# ContentManageSystem
+##主要技术点requirejs
+##各种jquery插件
